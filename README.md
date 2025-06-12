@@ -9,7 +9,7 @@
 ## Contact me on discord :
 <img src="https://discord.c99.nl/widget/theme-2/1330555769304776704.png">
 
-## Programming languages & Frameworks:
+## Programming languages & Frameworks I know :
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,c,cpp,php)](https://skillicons.dev)</br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,vuejs,nextjs,react,electron,symfony,tailwind)](https://skillicons.dev)
 
