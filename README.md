@@ -22,4 +22,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" height=50px width=50px>
 </p>
 
-![](https://komarev.com/ghpvc/?username=gwgo)
+---
+Views :</br>
+![Visitor Count](https://profile-counter.glitch.me/gwgo/count.svg)
