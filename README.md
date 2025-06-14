@@ -22,6 +22,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" height=50px width=50px>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwgo&layout=compact&theme=gotham" length="100" width="420">
+
 ---
 Views :</br>
 ![Visitor Count](https://profile-counter.glitch.me/gwgo/count.svg)
